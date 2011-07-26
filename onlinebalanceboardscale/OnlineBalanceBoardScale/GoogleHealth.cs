@@ -6,11 +6,13 @@ using Google.GData.Client;
 using Google.GData.Health;
 using System.Xml;
 using Google.GData.Extensions;
+using System.Net;
 
 namespace OnlineBalanceBoardScale
 {
     class GoogleHealth
     {
+        
         private string user;
         private string password;
         private string pid;
@@ -50,7 +52,9 @@ namespace OnlineBalanceBoardScale
         }
         public bool connect(){
             service = new HealthService("exampleCo-exampleApp-1");
-            //GAuthSubRequestFactory authFactory = new GAuthSubRequestFactory("weaver", "exampleCo-exampleApp-1");
+
+           //GAuthSubRequestFactory authFactory = new GAuthSubRequestFactory("weaver", "exampleCo-exampleApp-1");
+            
             //service = new HealthService(authFactory.ApplicationName);
             service.setUserCredentials(user, password);
             query = HealthQuery.ProfileQueryForId(pid);
@@ -64,7 +68,7 @@ namespace OnlineBalanceBoardScale
         {
             GoogleHealth goo = new GoogleHealth("rtgonzalez", "Termo1234");
             goo.connect();
-            goo.insertNoticeFile(@"C:\Users\Y154951\Documents\Visual Studio 2008\Projects\Balanza\OnlineBalanceBoardScale\OnlineBalanceBoardScale\bin\Debug\insert.xml");
+            goo.insertNoticeFile(@"insert.xml");
 
             
            
@@ -79,43 +83,6 @@ namespace OnlineBalanceBoardScale
             AtomEntry newNotice = new AtomEntry();
             newNotice.Title.Text = "A test message";
             newNotice.Content.Content = "This is a test message.";
-            /*String ccrXmlString =
-                  @"<ContinuityOfCareRecord xmlns='urn:astm-org:CCR'>
-                      <Body>
-                        <Problems>
-                          <Problem>
-                            <DateTime>
-                              <Type>
-                                <Text>Start date</Text>
-                              </Type>
-                              <ExactDateTime>2007-04-04T07:00:00Z</ExactDateTime>
-                            </DateTime>
-                            <DateTime>
-                              <Type>
-                                <Text>Stop date</Text>
-                              </Type>
-                              <ExactDateTime>2008-07-20T07:00:00Z</ExactDateTime>
-                            </DateTime>
-                            <Description>
-                              <Code>
-                                <Value>346.80</Value>
-                                <CodingSystem>ICD9</CodingSystem>
-                                <Version>2004</Version>
-                              </Code>
-                            </Description>
-                            <Status><Text>Active</Text></Status>
-                            <Source>
-                              <Actor>
-                                <ActorID>Harris Smith</ActorID>
-                                <ActorRole>
-                                  <Text>Treating clinician</Text>
-                                </ActorRole>
-                              </Actor>
-                            </Source>
-                          </Problem>
-                        </Problems>
-                      </Body>
-                  </ContinuityOfCareRecord>";*/
             XmlDocument ccrDoc = new XmlDocument();
             ccrDoc.LoadXml(xmlNotice);
             newNotice.ExtensionElements.Add(new XmlExtension(ccrDoc.DocumentElement));
