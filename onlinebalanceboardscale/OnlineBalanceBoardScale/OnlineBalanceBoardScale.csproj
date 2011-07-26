@@ -116,6 +116,7 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <Compile Include="proxy.cs" />
     <Compile Include="SevenSegment.cs">
       <SubType>UserControl</SubType>
     </Compile>
@@ -136,9 +137,13 @@
     <None Include="Images\BalanzaVerde.gif" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="app.config" />
     <None Include="Images\BalanzaTodoRojo.gif" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="insert.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <Content Include="salida.xml" />
     <Content Include="salida2.xml" />
     <Content Include="salida_summary.xml" />

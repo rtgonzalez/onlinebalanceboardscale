@@ -1,0 +1,48 @@
+    <ContinuityOfCareRecord xmlns='urn:astm-org:CCR'>
+<Body>
+        <Results>
+          <Result>
+                        <CCRDataObjectID>wKKpEW4D750-1</CCRDataObjectID>
+            <Description>
+              <Text>Weight</Text>
+            </Description>
+
+            <Source>
+              <Actor>
+                <ActorID>rtgonzalez@gmail.com</ActorID>
+                <ActorRole>
+                  <Text>Patient</Text>
+                </ActorRole>
+              </Actor>
+              <Actor>
+                <ActorID>rtgonzalez@gmail.com</ActorID>
+                <ActorRole>
+                  <Text>Patient</Text>
+                </ActorRole>
+              </Actor>
+            </Source>
+
+            <Test>
+            <CCRDataObjectID>wKKpEW4D750-0</CCRDataObjectID>
+              <DateTime>
+                <Type>
+                  <Text>Collection start date</Text>
+                </Type>
+                <ExactDateTime>2011-04-19T03:10:58.688Z</ExactDateTime>
+              </DateTime>
+              <Description>
+                <Text>Weight</Text>
+              </Description>
+             
+              <TestResult>
+                <Value>83.2</Value>
+                <Units>
+                  <Unit>kg</Unit>
+                </Units>
+              </TestResult>
+            </Test>
+          </Result>
+        </Results>
+
+</Body>
+	 </ContinuityOfCareRecord>
