@@ -1,0 +1,1067 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns='http://www.w3.org/2005/Atom' xmlns:openSearch='http://a9.com/-/spec/opensearchrss/1.0/' xmlns:ccr='urn:astm-org:CCR' xmlns:batch='http://schemas.google.com/gdata/batch' xmlns:h9m='http://schemas.google.com/health/metadata'>
+  <id>http://www.google.com/health/feeds/profile/ui/qXZk7Vtq9vs</id>
+  <updated>2011-01-29T03:11:09.601Z</updated>
+  <category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/health/kinds#profile'/>
+  <title type='text'>Profile Feed</title>
+  <link rel='http://schemas.google.com/g/2005#feed' type='application/atom+xml' href='http://www.google.com/health/feeds/profile/ui/qXZk7Vtq9vs'/>
+  <link rel='http://schemas.google.com/g/2005#post' type='application/atom+xml' href='http://www.google.com/health/feeds/profile/ui/qXZk7Vtq9vs'/>
+  <link rel='http://schemas.google.com/g/2005#batch' type='application/atom+xml' href='http://www.google.com/health/feeds/profile/ui/qXZk7Vtq9vs/batch'/>
+  <link rel='self' type='application/atom+xml' href='http://www.google.com/health/feeds/profile/ui/qXZk7Vtq9vs'/>
+  <openSearch:startIndex>1</openSearch:startIndex>
+  <entry>
+    <id>http://www.google.com/health/feeds/profile/ui/qXZk7Vtq9vs/Nx5hKALMAMU</id>
+    <published>2011-01-26T03:06:21.397Z</published>
+    <updated>2011-01-26T03:06:21.397Z</updated>
+    <category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/health/kinds#profile'/>
+    <category term='DEMOGRAPHICS'/>
+    <category scheme='http://schemas.google.com/health/item' term='Demographics'/>
+    <title type='text'>Demographics</title>
+    <link rel='http://schemas.google.com/health/data#complete' type='application/atom+xml' href='http://www.google.com/health/feeds/profile/ui/qXZk7Vtq9vs/-/%7Bhttp%3A%2F%2Fschemas.google.com%2Fg%2F2005%23kind%7Dhttp%3A%2F%2Fschemas.google.com%2Fhealth%2Fkinds%23profile/DEMOGRAPHICS/%7Bhttp%3A%2F%2Fschemas.google.com%2Fhealth%2Fitem%7DDemographics'/>
+    <link rel='self' type='application/atom+xml' href='http://www.google.com/health/feeds/profile/ui/qXZk7Vtq9vs/Nx5hKALMAMU'/>
+    <link rel='edit' type='application/atom+xml' href='http://www.google.com/health/feeds/profile/ui/qXZk7Vtq9vs/Nx5hKALMAMU'/>
+    <author>
+      <name>Martin Gonzalez</name>
+      <email>rtgonzalez@gmail.com</email>
+    </author>
+    <contributor>
+      <name>Martin Gonzalez</name>
+      <email>rtgonzalez@gmail.com</email>
+    </contributor>
+    <ContinuityOfCareRecord xmlns='urn:astm-org:CCR'>
+      <CCRDocumentObjectID>Nx5hKALMAMU</CCRDocumentObjectID>
+      <Language>
+        <Text>English</Text>
+        <Code>
+          <Value>en</Value>
+          <CodingSystem>ISO-639-1</CodingSystem>
+        </Code>
+      </Language>
+      <Version>V1.0</Version>
+      <DateTime>
+        <ExactDateTime>2011-01-26T03:06:21.397Z</ExactDateTime>
+      </DateTime>
+      <Patient>
+        <ActorID>Google Health Profile</ActorID>
+      </Patient>
+      <From>
+        <ActorLink>
+          <ActorID>Google Health</ActorID>
+          <ActorRole>
+            <Text>PHR</Text>
+          </ActorRole>
+        </ActorLink>
+      </From>
+      <Body/>
+      <Actors>
+        <Actor>
+          <ActorObjectID>Google Health Profile</ActorObjectID>
+          <Person>
+            <DateOfBirth>
+              <ExactDateTime>1982-12-05</ExactDateTime>
+            </DateOfBirth>
+            <Gender>
+              <Text>Male</Text>
+            </Gender>
+          </Person>
+          <Source>
+            <Actor>
+              <ActorID>rtgonzalez@gmail.com</ActorID>
+              <ActorRole>
+                <Text>Patient</Text>
+              </ActorRole>
+            </Actor>
+            <Actor>
+              <ActorID>rtgonzalez@gmail.com</ActorID>
+              <ActorRole>
+                <Text>Patient</Text>
+              </ActorRole>
+            </Actor>
+          </Source>
+        </Actor>
+      </Actors>
+    </ContinuityOfCareRecord>
+    <ProfileMetaData xmlns='http://schemas.google.com/health/metadata'/>
+  </entry>
+  <entry>
+    <id>http://www.google.com/health/feeds/profile/ui/qXZk7Vtq9vs/UMET9hSzp8U</id>
+    <published>2011-01-26T03:06:21.395Z</published>
+    <updated>2011-01-26T03:06:21.396Z</updated>
+    <category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/health/kinds#profile'/>
+    <category term='DEMOGRAPHICS'/>
+    <category scheme='http://schemas.google.com/health/item' term='FunctionalStatus'/>
+    <title type='text'>FunctionalStatus</title>
+    <link rel='http://schemas.google.com/health/data#complete' type='application/atom+xml' href='http://www.google.com/health/feeds/profile/ui/qXZk7Vtq9vs/-/%7Bhttp%3A%2F%2Fschemas.google.com%2Fg%2F2005%23kind%7Dhttp%3A%2F%2Fschemas.google.com%2Fhealth%2Fkinds%23profile/DEMOGRAPHICS/%7Bhttp%3A%2F%2Fschemas.google.com%2Fhealth%2Fitem%7DFunctionalStatus'/>
+    <link rel='self' type='application/atom+xml' href='http://www.google.com/health/feeds/profile/ui/qXZk7Vtq9vs/UMET9hSzp8U'/>
+    <link rel='edit' type='application/atom+xml' href='http://www.google.com/health/feeds/profile/ui/qXZk7Vtq9vs/UMET9hSzp8U'/>
+    <author>
+      <name>Martin Gonzalez</name>
+      <email>rtgonzalez@gmail.com</email>
+    </author>
+    <contributor>
+      <name>Martin Gonzalez</name>
+      <email>rtgonzalez@gmail.com</email>
+    </contributor>
+    <ContinuityOfCareRecord xmlns='urn:astm-org:CCR'>
+      <CCRDocumentObjectID>UMET9hSzp8U</CCRDocumentObjectID>
+      <Language>
+        <Text>English</Text>
+        <Code>
+          <Value>en</Value>
+          <CodingSystem>ISO-639-1</CodingSystem>
+        </Code>
+      </Language>
+      <Version>V1.0</Version>
+      <DateTime>
+        <ExactDateTime>2011-01-26T03:06:21.395Z</ExactDateTime>
+      </DateTime>
+      <Patient>
+        <ActorID>Google Health Profile</ActorID>
+      </Patient>
+      <From>
+        <ActorLink>
+          <ActorID>Google Health</ActorID>
+          <ActorRole>
+            <Text>PHR</Text>
+          </ActorRole>
+        </ActorLink>
+      </From>
+      <Body>
+        <FunctionalStatus>
+          <Function>
+            <CCRDataObjectID>UMET9hSzp8U-0</CCRDataObjectID>
+            <Type>
+              <Text>Pregnancy status</Text>
+            </Type>
+            <Description>
+              <Text>Not pregnant</Text>
+            </Description>
+            <Source>
+              <Actor>
+                <ActorID>rtgonzalez@gmail.com</ActorID>
+                <ActorRole>
+                  <Text>Patient</Text>
+                </ActorRole>
+              </Actor>
+              <Actor>
+                <ActorID>rtgonzalez@gmail.com</ActorID>
+                <ActorRole>
+                  <Text>Patient</Text>
+                </ActorRole>
+              </Actor>
+            </Source>
+          </Function>
+          <Function>
+            <CCRDataObjectID>UMET9hSzp8U-1</CCRDataObjectID>
+            <Type>
+              <Text>Breastfeeding status</Text>
+            </Type>
+            <Description>
+              <Text>Not breastfeeding</Text>
+            </Description>
+            <Source>
+              <Actor>
+                <ActorID>rtgonzalez@gmail.com</ActorID>
+                <ActorRole>
+                  <Text>Patient</Text>
+                </ActorRole>
+              </Actor>
+              <Actor>
+                <ActorID>rtgonzalez@gmail.com</ActorID>
+                <ActorRole>
+                  <Text>Patient</Text>
+                </ActorRole>
+              </Actor>
+            </Source>
+          </Function>
+        </FunctionalStatus>
+      </Body>
+      <Actors>
+        <Actor>
+          <ActorObjectID>Google Health Profile</ActorObjectID>
+          <Source>
+            <Actor>
+              <ActorID>rtgonzalez@gmail.com</ActorID>
+              <ActorRole>
+                <Text>Patient</Text>
+              </ActorRole>
+            </Actor>
+            <Actor>
+              <ActorID>rtgonzalez@gmail.com</ActorID>
+              <ActorRole>
+                <Text>Patient</Text>
+              </ActorRole>
+            </Actor>
+          </Source>
+        </Actor>
+      </Actors>
+    </ContinuityOfCareRecord>
+    <ProfileMetaData xmlns='http://schemas.google.com/health/metadata'/>
+  </entry>
+  <entry>
+    <id>http://www.google.com/health/feeds/profile/ui/qXZk7Vtq9vs/Rb7.AK29TY4</id>
+    <published>2011-01-28T02:44:58.075Z</published>
+    <updated>2011-01-28T02:44:58.075Z</updated>
+    <category scheme='http://schemas.google.com/health/item' term='Height'/>
+    <category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/health/kinds#profile'/>
+    <category term='LABTEST'/>
+    <title type='text'>Height</title>
+    <link rel='http://schemas.google.com/health/data#complete' type='application/atom+xml' href='http://www.google.com/health/feeds/profile/ui/qXZk7Vtq9vs/-/%7Bhttp%3A%2F%2Fschemas.google.com%2Fhealth%2Fitem%7DHeight/%7Bhttp%3A%2F%2Fschemas.google.com%2Fg%2F2005%23kind%7Dhttp%3A%2F%2Fschemas.google.com%2Fhealth%2Fkinds%23profile/LABTEST'/>
+    <link rel='self' type='application/atom+xml' href='http://www.google.com/health/feeds/profile/ui/qXZk7Vtq9vs/Rb7.AK29TY4'/>
+    <link rel='edit' type='application/atom+xml' href='http://www.google.com/health/feeds/profile/ui/qXZk7Vtq9vs/Rb7.AK29TY4'/>
+    <author>
+      <name>Martin Gonzalez</name>
+      <email>rtgonzalez@gmail.com</email>
+    </author>
+    <contributor>
+      <name>Martin Gonzalez</name>
+      <email>rtgonzalez@gmail.com</email>
+    </contributor>
+    <ContinuityOfCareRecord xmlns='urn:astm-org:CCR'>
+      <CCRDocumentObjectID>Rb7.AK29TY4</CCRDocumentObjectID>
+      <Language>
+        <Text>English</Text>
+        <Code>
+          <Value>en</Value>
+          <CodingSystem>ISO-639-1</CodingSystem>
+        </Code>
+      </Language>
+      <Version>V1.0</Version>
+      <DateTime>
+        <ExactDateTime>2011-01-28T02:44:58.075Z</ExactDateTime>
+      </DateTime>
+      <Patient>
+        <ActorID>Google Health Profile</ActorID>
+      </Patient>
+      <From>
+        <ActorLink>
+          <ActorID>Google Health</ActorID>
+          <ActorRole>
+            <Text>PHR</Text>
+          </ActorRole>
+        </ActorLink>
+      </From>
+      <Body>
+        <Results>
+          <Result>
+            <CCRDataObjectID>Rb7.AK29TY4-1</CCRDataObjectID>
+            <DateTime>
+              <Type>
+                <Text>Collection start date</Text>
+              </Type>
+              <ExactDateTime>2011-01-28T02:44:51.261Z</ExactDateTime>
+            </DateTime>
+            <Description>
+              <Text>Height</Text>
+            </Description>
+            <Source>
+              <Actor>
+                <ActorID>rtgonzalez@gmail.com</ActorID>
+                <ActorRole>
+                  <Text>Patient</Text>
+                </ActorRole>
+              </Actor>
+              <Actor>
+                <ActorID>rtgonzalez@gmail.com</ActorID>
+                <ActorRole>
+                  <Text>Patient</Text>
+                </ActorRole>
+              </Actor>
+            </Source>
+            <Test>
+              <CCRDataObjectID>Rb7.AK29TY4-0</CCRDataObjectID>
+              <DateTime>
+                <Type>
+                  <Text>Collection start date</Text>
+                </Type>
+                <ExactDateTime>2011-01-28T02:44:51.261Z</ExactDateTime>
+              </DateTime>
+              <Description>
+                <Text>Height</Text>
+              </Description>
+              <Source>
+                <Actor>
+                  <ActorID>rtgonzalez@gmail.com</ActorID>
+                  <ActorRole>
+                    <Text>Patient</Text>
+                  </ActorRole>
+                </Actor>
+              </Source>
+              <TestResult>
+                <Value>173</Value>
+                <Units>
+                  <Unit>cm</Unit>
+                </Units>
+              </TestResult>
+            </Test>
+          </Result>
+        </Results>
+      </Body>
+      <Actors>
+        <Actor>
+          <ActorObjectID>Google Health Profile</ActorObjectID>
+          <Source>
+            <Actor>
+              <ActorID>rtgonzalez@gmail.com</ActorID>
+              <ActorRole>
+                <Text>Patient</Text>
+              </ActorRole>
+            </Actor>
+            <Actor>
+              <ActorID>rtgonzalez@gmail.com</ActorID>
+              <ActorRole>
+                <Text>Patient</Text>
+              </ActorRole>
+            </Actor>
+          </Source>
+        </Actor>
+      </Actors>
+    </ContinuityOfCareRecord>
+    <ProfileMetaData xmlns='http://schemas.google.com/health/metadata'/>
+  </entry>
+  <entry>
+    <id>http://www.google.com/health/feeds/profile/ui/qXZk7Vtq9vs/fcXTp8nKb1c</id>
+    <published>2011-01-28T02:48:34.522Z</published>
+    <updated>2011-01-28T02:48:34.523Z</updated>
+    <category scheme='http://schemas.google.com/health/item' term='Running distance'/>
+    <category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/health/kinds#profile'/>
+    <category term='LABTEST'/>
+    <title type='text'>Running distance</title>
+    <link rel='http://schemas.google.com/health/data#complete' type='application/atom+xml' href='http://www.google.com/health/feeds/profile/ui/qXZk7Vtq9vs/-/%7Bhttp%3A%2F%2Fschemas.google.com%2Fhealth%2Fitem%7DRunning+distance/%7Bhttp%3A%2F%2Fschemas.google.com%2Fg%2F2005%23kind%7Dhttp%3A%2F%2Fschemas.google.com%2Fhealth%2Fkinds%23profile/LABTEST'/>
+    <link rel='self' type='application/atom+xml' href='http://www.google.com/health/feeds/profile/ui/qXZk7Vtq9vs/fcXTp8nKb1c'/>
+    <link rel='edit' type='application/atom+xml' href='http://www.google.com/health/feeds/profile/ui/qXZk7Vtq9vs/fcXTp8nKb1c'/>
+    <author>
+      <name>Martin Gonzalez</name>
+      <email>rtgonzalez@gmail.com</email>
+    </author>
+    <contributor>
+      <name>Martin Gonzalez</name>
+      <email>rtgonzalez@gmail.com</email>
+    </contributor>
+    <ContinuityOfCareRecord xmlns='urn:astm-org:CCR'>
+      <CCRDocumentObjectID>fcXTp8nKb1c</CCRDocumentObjectID>
+      <Language>
+        <Text>English</Text>
+        <Code>
+          <Value>en</Value>
+          <CodingSystem>ISO-639-1</CodingSystem>
+        </Code>
+      </Language>
+      <Version>V1.0</Version>
+      <DateTime>
+        <ExactDateTime>2011-01-28T02:48:34.522Z</ExactDateTime>
+      </DateTime>
+      <Patient>
+        <ActorID>Google Health Profile</ActorID>
+      </Patient>
+      <From>
+        <ActorLink>
+          <ActorID>Google Health</ActorID>
+          <ActorRole>
+            <Text>PHR</Text>
+          </ActorRole>
+        </ActorLink>
+      </From>
+      <Body>
+        <Results>
+          <Result>
+            <CCRDataObjectID>fcXTp8nKb1c-1</CCRDataObjectID>
+            <DateTime>
+              <Type>
+                <Text>Collection start date</Text>
+              </Type>
+              <ExactDateTime>2011-01-28T02:47:33.760Z</ExactDateTime>
+            </DateTime>
+            <Description>
+              <Text>Running distance</Text>
+            </Description>
+            <Source>
+              <Actor>
+                <ActorID>rtgonzalez@gmail.com</ActorID>
+                <ActorRole>
+                  <Text>Patient</Text>
+                </ActorRole>
+              </Actor>
+              <Actor>
+                <ActorID>rtgonzalez@gmail.com</ActorID>
+                <ActorRole>
+                  <Text>Patient</Text>
+                </ActorRole>
+              </Actor>
+            </Source>
+            <Test>
+              <CCRDataObjectID>fcXTp8nKb1c-0</CCRDataObjectID>
+              <DateTime>
+                <Type>
+                  <Text>Collection start date</Text>
+                </Type>
+                <ExactDateTime>2011-01-28T02:47:33.760Z</ExactDateTime>
+              </DateTime>
+              <Description>
+                <Text>Running distance</Text>
+              </Description>
+              <Source>
+                <Actor>
+                  <ActorID>rtgonzalez@gmail.com</ActorID>
+                  <ActorRole>
+                    <Text>Patient</Text>
+                  </ActorRole>
+                </Actor>
+              </Source>
+              <TestResult>
+                <Value>1.86</Value>
+                <Units>
+                  <Unit>miles</Unit>
+                </Units>
+              </TestResult>
+            </Test>
+          </Result>
+        </Results>
+      </Body>
+      <Actors>
+        <Actor>
+          <ActorObjectID>Google Health Profile</ActorObjectID>
+          <Source>
+            <Actor>
+              <ActorID>rtgonzalez@gmail.com</ActorID>
+              <ActorRole>
+                <Text>Patient</Text>
+              </ActorRole>
+            </Actor>
+            <Actor>
+              <ActorID>rtgonzalez@gmail.com</ActorID>
+              <ActorRole>
+                <Text>Patient</Text>
+              </ActorRole>
+            </Actor>
+          </Source>
+        </Actor>
+      </Actors>
+    </ContinuityOfCareRecord>
+    <ProfileMetaData xmlns='http://schemas.google.com/health/metadata'/>
+  </entry>
+  <entry>
+    <id>http://www.google.com/health/feeds/profile/ui/qXZk7Vtq9vs/1zxxDpeOZGs</id>
+    <published>2011-01-28T02:48:34.495Z</published>
+    <updated>2011-01-28T02:48:34.496Z</updated>
+    <category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/health/kinds#profile'/>
+    <category term='LABTEST'/>
+    <category scheme='http://schemas.google.com/health/item' term='Running time'/>
+    <title type='text'>Running time</title>
+    <link rel='http://schemas.google.com/health/data#complete' type='application/atom+xml' href='http://www.google.com/health/feeds/profile/ui/qXZk7Vtq9vs/-/%7Bhttp%3A%2F%2Fschemas.google.com%2Fg%2F2005%23kind%7Dhttp%3A%2F%2Fschemas.google.com%2Fhealth%2Fkinds%23profile/LABTEST/%7Bhttp%3A%2F%2Fschemas.google.com%2Fhealth%2Fitem%7DRunning+time'/>
+    <link rel='self' type='application/atom+xml' href='http://www.google.com/health/feeds/profile/ui/qXZk7Vtq9vs/1zxxDpeOZGs'/>
+    <link rel='edit' type='application/atom+xml' href='http://www.google.com/health/feeds/profile/ui/qXZk7Vtq9vs/1zxxDpeOZGs'/>
+    <author>
+      <name>Martin Gonzalez</name>
+      <email>rtgonzalez@gmail.com</email>
+    </author>
+    <contributor>
+      <name>Martin Gonzalez</name>
+      <email>rtgonzalez@gmail.com</email>
+    </contributor>
+    <ContinuityOfCareRecord xmlns='urn:astm-org:CCR'>
+      <CCRDocumentObjectID>1zxxDpeOZGs</CCRDocumentObjectID>
+      <Language>
+        <Text>English</Text>
+        <Code>
+          <Value>en</Value>
+          <CodingSystem>ISO-639-1</CodingSystem>
+        </Code>
+      </Language>
+      <Version>V1.0</Version>
+      <DateTime>
+        <ExactDateTime>2011-01-28T02:48:34.495Z</ExactDateTime>
+      </DateTime>
+      <Patient>
+        <ActorID>Google Health Profile</ActorID>
+      </Patient>
+      <From>
+        <ActorLink>
+          <ActorID>Google Health</ActorID>
+          <ActorRole>
+            <Text>PHR</Text>
+          </ActorRole>
+        </ActorLink>
+      </From>
+      <Body>
+        <Results>
+          <Result>
+            <CCRDataObjectID>1zxxDpeOZGs-1</CCRDataObjectID>
+            <DateTime>
+              <Type>
+                <Text>Collection start date</Text>
+              </Type>
+              <ExactDateTime>2011-01-28T02:47:33.760Z</ExactDateTime>
+            </DateTime>
+            <Description>
+              <Text>Running time</Text>
+            </Description>
+            <Source>
+              <Actor>
+                <ActorID>rtgonzalez@gmail.com</ActorID>
+                <ActorRole>
+                  <Text>Patient</Text>
+                </ActorRole>
+              </Actor>
+              <Actor>
+                <ActorID>rtgonzalez@gmail.com</ActorID>
+                <ActorRole>
+                  <Text>Patient</Text>
+                </ActorRole>
+              </Actor>
+            </Source>
+            <Test>
+              <CCRDataObjectID>1zxxDpeOZGs-0</CCRDataObjectID>
+              <DateTime>
+                <Type>
+                  <Text>Collection start date</Text>
+                </Type>
+                <ExactDateTime>2011-01-28T02:47:33.760Z</ExactDateTime>
+              </DateTime>
+              <Description>
+                <Text>Running time</Text>
+              </Description>
+              <Source>
+                <Actor>
+                  <ActorID>rtgonzalez@gmail.com</ActorID>
+                  <ActorRole>
+                    <Text>Patient</Text>
+                  </ActorRole>
+                </Actor>
+              </Source>
+              <TestResult>
+                <Value>20</Value>
+                <Units>
+                  <Unit>minutes</Unit>
+                </Units>
+              </TestResult>
+            </Test>
+          </Result>
+        </Results>
+      </Body>
+      <Actors>
+        <Actor>
+          <ActorObjectID>Google Health Profile</ActorObjectID>
+          <Source>
+            <Actor>
+              <ActorID>rtgonzalez@gmail.com</ActorID>
+              <ActorRole>
+                <Text>Patient</Text>
+              </ActorRole>
+            </Actor>
+            <Actor>
+              <ActorID>rtgonzalez@gmail.com</ActorID>
+              <ActorRole>
+                <Text>Patient</Text>
+              </ActorRole>
+            </Actor>
+          </Source>
+        </Actor>
+      </Actors>
+    </ContinuityOfCareRecord>
+    <ProfileMetaData xmlns='http://schemas.google.com/health/metadata'/>
+  </entry>
+  <entry>
+    <id>http://www.google.com/health/feeds/profile/ui/qXZk7Vtq9vs/KvO12V8APtQ</id>
+    <published>2011-01-26T03:06:21.396Z</published>
+    <updated>2011-01-26T03:06:21.397Z</updated>
+    <category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/health/kinds#profile'/>
+    <category term='DEMOGRAPHICS'/>
+    <category scheme='http://schemas.google.com/health/item' term='SocialHistory (Drinking, Smoking)'/>
+    <title type='text'>SocialHistory (Drinking, Smoking)</title>
+    <link rel='http://schemas.google.com/health/data#complete' type='application/atom+xml' href='http://www.google.com/health/feeds/profile/ui/qXZk7Vtq9vs/-/%7Bhttp%3A%2F%2Fschemas.google.com%2Fg%2F2005%23kind%7Dhttp%3A%2F%2Fschemas.google.com%2Fhealth%2Fkinds%23profile/DEMOGRAPHICS/%7Bhttp%3A%2F%2Fschemas.google.com%2Fhealth%2Fitem%7DSocialHistory+%28Drinking%2C+Smoking%29'/>
+    <link rel='self' type='application/atom+xml' href='http://www.google.com/health/feeds/profile/ui/qXZk7Vtq9vs/KvO12V8APtQ'/>
+    <link rel='edit' type='application/atom+xml' href='http://www.google.com/health/feeds/profile/ui/qXZk7Vtq9vs/KvO12V8APtQ'/>
+    <author>
+      <name>Martin Gonzalez</name>
+      <email>rtgonzalez@gmail.com</email>
+    </author>
+    <contributor>
+      <name>Martin Gonzalez</name>
+      <email>rtgonzalez@gmail.com</email>
+    </contributor>
+    <ContinuityOfCareRecord xmlns='urn:astm-org:CCR'>
+      <CCRDocumentObjectID>KvO12V8APtQ</CCRDocumentObjectID>
+      <Language>
+        <Text>English</Text>
+        <Code>
+          <Value>en</Value>
+          <CodingSystem>ISO-639-1</CodingSystem>
+        </Code>
+      </Language>
+      <Version>V1.0</Version>
+      <DateTime>
+        <ExactDateTime>2011-01-26T03:06:21.396Z</ExactDateTime>
+      </DateTime>
+      <Patient>
+        <ActorID>Google Health Profile</ActorID>
+      </Patient>
+      <From>
+        <ActorLink>
+          <ActorID>Google Health</ActorID>
+          <ActorRole>
+            <Text>PHR</Text>
+          </ActorRole>
+        </ActorLink>
+      </From>
+      <Body>
+        <SocialHistory>
+          <SocialHistoryElement>
+            <CCRDataObjectID>KvO12V8APtQ-0</CCRDataObjectID>
+            <Type>
+              <Text>Race</Text>
+              <Code>
+                <Value>S15837</Value>
+                <CodingSystem>HL7</CodingSystem>
+              </Code>
+            </Type>
+            <Description>
+              <Text>Hispanic or Latino</Text>
+            </Description>
+            <Source>
+              <Actor>
+                <ActorID>rtgonzalez@gmail.com</ActorID>
+                <ActorRole>
+                  <Text>Patient</Text>
+                </ActorRole>
+              </Actor>
+              <Actor>
+                <ActorID>rtgonzalez@gmail.com</ActorID>
+                <ActorRole>
+                  <Text>Patient</Text>
+                </ActorRole>
+              </Actor>
+            </Source>
+          </SocialHistoryElement>
+        </SocialHistory>
+      </Body>
+      <Actors>
+        <Actor>
+          <ActorObjectID>Google Health Profile</ActorObjectID>
+          <Source>
+            <Actor>
+              <ActorID>rtgonzalez@gmail.com</ActorID>
+              <ActorRole>
+                <Text>Patient</Text>
+              </ActorRole>
+            </Actor>
+            <Actor>
+              <ActorID>rtgonzalez@gmail.com</ActorID>
+              <ActorRole>
+                <Text>Patient</Text>
+              </ActorRole>
+            </Actor>
+          </Source>
+        </Actor>
+      </Actors>
+    </ContinuityOfCareRecord>
+    <ProfileMetaData xmlns='http://schemas.google.com/health/metadata'/>
+  </entry>
+  <entry>
+    <id>http://www.google.com/health/feeds/profile/ui/qXZk7Vtq9vs/no_id</id>
+    <published>2011-01-26T03:06:21.396Z</published>
+    <updated>2011-01-26T03:06:21.397Z</updated>
+    <category scheme='http://schemas.google.com/health/item' term='VitalSigns'/>
+    <category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/health/kinds#profile'/>
+    <category term='DEMOGRAPHICS'/>
+    <title type='text'>VitalSigns</title>
+    <link rel='http://schemas.google.com/health/data#complete' type='application/atom+xml' href='http://www.google.com/health/feeds/profile/ui/qXZk7Vtq9vs/-/%7Bhttp%3A%2F%2Fschemas.google.com%2Fhealth%2Fitem%7DVitalSigns/%7Bhttp%3A%2F%2Fschemas.google.com%2Fg%2F2005%23kind%7Dhttp%3A%2F%2Fschemas.google.com%2Fhealth%2Fkinds%23profile/DEMOGRAPHICS'/>
+    <link rel='self' type='application/atom+xml' href='http://www.google.com/health/feeds/profile/ui/qXZk7Vtq9vs/no_id'/>
+    <link rel='edit' type='application/atom+xml' href='http://www.google.com/health/feeds/profile/ui/qXZk7Vtq9vs/no_id'/>
+    <author>
+      <name>Martin Gonzalez</name>
+      <email>rtgonzalez@gmail.com</email>
+    </author>
+    <contributor>
+      <name>Martin Gonzalez</name>
+      <email>rtgonzalez@gmail.com</email>
+    </contributor>
+    <ContinuityOfCareRecord xmlns='urn:astm-org:CCR'>
+      <CCRDocumentObjectID>no_id</CCRDocumentObjectID>
+      <Language>
+        <Text>English</Text>
+        <Code>
+          <Value>en</Value>
+          <CodingSystem>ISO-639-1</CodingSystem>
+        </Code>
+      </Language>
+      <Version>V1.0</Version>
+      <DateTime>
+        <ExactDateTime>2011-01-26T03:06:21.396Z</ExactDateTime>
+      </DateTime>
+      <Patient>
+        <ActorID>Google Health Profile</ActorID>
+      </Patient>
+      <From>
+        <ActorLink>
+          <ActorID>Google Health</ActorID>
+          <ActorRole>
+            <Text>PHR</Text>
+          </ActorRole>
+        </ActorLink>
+      </From>
+      <Body>
+        <VitalSigns>
+          <Result>
+            <CCRDataObjectID>jG6127tO4lc-1</CCRDataObjectID>
+            <Source>
+              <Actor>
+                <ActorID>rtgonzalez@gmail.com</ActorID>
+                <ActorRole>
+                  <Text>Patient</Text>
+                </ActorRole>
+              </Actor>
+              <Actor>
+                <ActorID>rtgonzalez@gmail.com</ActorID>
+                <ActorRole>
+                  <Text>Patient</Text>
+                </ActorRole>
+              </Actor>
+            </Source>
+            <Test>
+              <CCRDataObjectID>jG6127tO4lc-0</CCRDataObjectID>
+              <Description>
+                <Text>Blood Type</Text>
+                <Code>
+                  <Value>278149003</Value>
+                  <CodingSystem>SNOMED</CodingSystem>
+                </Code>
+              </Description>
+              <Source>
+                <Actor>
+                  <ActorID>rtgonzalez@gmail.com</ActorID>
+                  <ActorRole>
+                    <Text>Patient</Text>
+                  </ActorRole>
+                </Actor>
+              </Source>
+              <TestResult>
+                <Value>A+</Value>
+              </TestResult>
+            </Test>
+          </Result>
+          <Result>
+            <CCRDataObjectID>no_id</CCRDataObjectID>
+            <Test>
+              <CCRDataObjectID>no_id</CCRDataObjectID>
+              <DateTime>
+                <Type>
+                  <Text>Collection start date</Text>
+                </Type>
+                <ExactDateTime>2011-01-28T02:44:51.261Z</ExactDateTime>
+              </DateTime>
+              <Description>
+                <Text>Height</Text>
+              </Description>
+              <Source>
+                <Actor>
+                  <ActorID>rtgonzalez@gmail.com</ActorID>
+                  <ActorRole>
+                    <Text>Patient</Text>
+                  </ActorRole>
+                </Actor>
+              </Source>
+              <TestResult>
+                <Value>173</Value>
+                <Units>
+                  <Unit>cm</Unit>
+                </Units>
+              </TestResult>
+            </Test>
+          </Result>
+          <Result>
+            <CCRDataObjectID>no_id</CCRDataObjectID>
+            <Test>
+              <CCRDataObjectID>no_id</CCRDataObjectID>
+              <DateTime>
+                <Type>
+                  <Text>Collection start date</Text>
+                </Type>
+                <ExactDateTime>2011-01-29T03:10:58.688Z</ExactDateTime>
+              </DateTime>
+              <Description>
+                <Text>Weight</Text>
+              </Description>
+              <Source>
+                <Actor>
+                  <ActorID>rtgonzalez@gmail.com</ActorID>
+                  <ActorRole>
+                    <Text>Patient</Text>
+                  </ActorRole>
+                </Actor>
+              </Source>
+              <TestResult>
+                <Value>83</Value>
+                <Units>
+                  <Unit>kg</Unit>
+                </Units>
+              </TestResult>
+            </Test>
+          </Result>
+        </VitalSigns>
+      </Body>
+      <Actors>
+        <Actor>
+          <ActorObjectID>Google Health Profile</ActorObjectID>
+          <Source>
+            <Actor>
+              <ActorID>rtgonzalez@gmail.com</ActorID>
+              <ActorRole>
+                <Text>Patient</Text>
+              </ActorRole>
+            </Actor>
+            <Actor>
+              <ActorID>rtgonzalez@gmail.com</ActorID>
+              <ActorRole>
+                <Text>Patient</Text>
+              </ActorRole>
+            </Actor>
+          </Source>
+        </Actor>
+      </Actors>
+    </ContinuityOfCareRecord>
+    <ProfileMetaData xmlns='http://schemas.google.com/health/metadata'/>
+  </entry>
+  <entry>
+    <id>http://www.google.com/health/feeds/profile/ui/qXZk7Vtq9vs/wKKpEW4D750</id>
+    <published>2011-01-29T03:11:09.600Z</published>
+    <updated>2011-01-29T03:11:09.601Z</updated>
+    <category scheme='http://schemas.google.com/health/item' term='Weight'/>
+    <category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/health/kinds#profile'/>
+    <category term='LABTEST'/>
+    <title type='text'>Weight</title>
+    <link rel='http://schemas.google.com/health/data#complete' type='application/atom+xml' href='http://www.google.com/health/feeds/profile/ui/qXZk7Vtq9vs/-/%7Bhttp%3A%2F%2Fschemas.google.com%2Fhealth%2Fitem%7DWeight/%7Bhttp%3A%2F%2Fschemas.google.com%2Fg%2F2005%23kind%7Dhttp%3A%2F%2Fschemas.google.com%2Fhealth%2Fkinds%23profile/LABTEST'/>
+    <link rel='self' type='application/atom+xml' href='http://www.google.com/health/feeds/profile/ui/qXZk7Vtq9vs/wKKpEW4D750'/>
+    <link rel='edit' type='application/atom+xml' href='http://www.google.com/health/feeds/profile/ui/qXZk7Vtq9vs/wKKpEW4D750'/>
+    <author>
+      <name>Martin Gonzalez</name>
+      <email>rtgonzalez@gmail.com</email>
+    </author>
+    <contributor>
+      <name>Martin Gonzalez</name>
+      <email>rtgonzalez@gmail.com</email>
+    </contributor>
+    <ContinuityOfCareRecord xmlns='urn:astm-org:CCR'>
+      <CCRDocumentObjectID>wKKpEW4D750</CCRDocumentObjectID>
+      <Language>
+        <Text>English</Text>
+        <Code>
+          <Value>en</Value>
+          <CodingSystem>ISO-639-1</CodingSystem>
+        </Code>
+      </Language>
+      <Version>V1.0</Version>
+      <DateTime>
+        <ExactDateTime>2011-01-29T03:11:09.600Z</ExactDateTime>
+      </DateTime>
+      <Patient>
+        <ActorID>Google Health Profile</ActorID>
+      </Patient>
+      <From>
+        <ActorLink>
+          <ActorID>Google Health</ActorID>
+          <ActorRole>
+            <Text>PHR</Text>
+          </ActorRole>
+        </ActorLink>
+      </From>
+      <Body>
+        <Results>
+          <Result>
+            <CCRDataObjectID>wKKpEW4D750-1</CCRDataObjectID>
+            <DateTime>
+              <Type>
+                <Text>Collection start date</Text>
+              </Type>
+              <ExactDateTime>2011-01-29T03:10:58.688Z</ExactDateTime>
+            </DateTime>
+            <Description>
+              <Text>Weight</Text>
+            </Description>
+            <Source>
+              <Actor>
+                <ActorID>rtgonzalez@gmail.com</ActorID>
+                <ActorRole>
+                  <Text>Patient</Text>
+                </ActorRole>
+              </Actor>
+              <Actor>
+                <ActorID>rtgonzalez@gmail.com</ActorID>
+                <ActorRole>
+                  <Text>Patient</Text>
+                </ActorRole>
+              </Actor>
+            </Source>
+            <Test>
+              <CCRDataObjectID>wKKpEW4D750-0</CCRDataObjectID>
+              <DateTime>
+                <Type>
+                  <Text>Collection start date</Text>
+                </Type>
+                <ExactDateTime>2011-01-29T03:10:58.688Z</ExactDateTime>
+              </DateTime>
+              <Description>
+                <Text>Weight</Text>
+              </Description>
+              <Source>
+                <Actor>
+                  <ActorID>rtgonzalez@gmail.com</ActorID>
+                  <ActorRole>
+                    <Text>Patient</Text>
+                  </ActorRole>
+                </Actor>
+              </Source>
+              <TestResult>
+                <Value>83</Value>
+                <Units>
+                  <Unit>kg</Unit>
+                </Units>
+              </TestResult>
+            </Test>
+          </Result>
+        </Results>
+      </Body>
+      <Actors>
+        <Actor>
+          <ActorObjectID>Google Health Profile</ActorObjectID>
+          <Source>
+            <Actor>
+              <ActorID>rtgonzalez@gmail.com</ActorID>
+              <ActorRole>
+                <Text>Patient</Text>
+              </ActorRole>
+            </Actor>
+            <Actor>
+              <ActorID>rtgonzalez@gmail.com</ActorID>
+              <ActorRole>
+                <Text>Patient</Text>
+              </ActorRole>
+            </Actor>
+          </Source>
+        </Actor>
+      </Actors>
+    </ContinuityOfCareRecord>
+    <ProfileMetaData xmlns='http://schemas.google.com/health/metadata'/>
+  </entry>
+  <entry>
+    <id>http://www.google.com/health/feeds/profile/ui/qXZk7Vtq9vs/tumFewOry18</id>
+    <published>2011-01-26T03:07:21.818Z</published>
+    <updated>2011-01-26T03:07:21.819Z</updated>
+    <category scheme='http://schemas.google.com/health/item' term='Weight'/>
+    <category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/health/kinds#profile'/>
+    <category term='LABTEST'/>
+    <title type='text'>Weight</title>
+    <link rel='http://schemas.google.com/health/data#complete' type='application/atom+xml' href='http://www.google.com/health/feeds/profile/ui/qXZk7Vtq9vs/-/%7Bhttp%3A%2F%2Fschemas.google.com%2Fhealth%2Fitem%7DWeight/%7Bhttp%3A%2F%2Fschemas.google.com%2Fg%2F2005%23kind%7Dhttp%3A%2F%2Fschemas.google.com%2Fhealth%2Fkinds%23profile/LABTEST'/>
+    <link rel='self' type='application/atom+xml' href='http://www.google.com/health/feeds/profile/ui/qXZk7Vtq9vs/tumFewOry18'/>
+    <link rel='edit' type='application/atom+xml' href='http://www.google.com/health/feeds/profile/ui/qXZk7Vtq9vs/tumFewOry18'/>
+    <author>
+      <name>Martin Gonzalez</name>
+      <email>rtgonzalez@gmail.com</email>
+    </author>
+    <contributor>
+      <name>Martin Gonzalez</name>
+      <email>rtgonzalez@gmail.com</email>
+    </contributor>
+    <ContinuityOfCareRecord xmlns='urn:astm-org:CCR'>
+      <CCRDocumentObjectID>tumFewOry18</CCRDocumentObjectID>
+      <Language>
+        <Text>English</Text>
+        <Code>
+          <Value>en</Value>
+          <CodingSystem>ISO-639-1</CodingSystem>
+        </Code>
+      </Language>
+      <Version>V1.0</Version>
+      <DateTime>
+        <ExactDateTime>2011-01-26T03:07:21.818Z</ExactDateTime>
+      </DateTime>
+      <Patient>
+        <ActorID>Google Health Profile</ActorID>
+      </Patient>
+      <From>
+        <ActorLink>
+          <ActorID>Google Health</ActorID>
+          <ActorRole>
+            <Text>PHR</Text>
+          </ActorRole>
+        </ActorLink>
+      </From>
+      <Body>
+        <Results>
+          <Result>
+            <CCRDataObjectID>tumFewOry18-1</CCRDataObjectID>
+            <DateTime>
+              <Type>
+                <Text>Collection start date</Text>
+              </Type>
+              <ExactDateTime>2011-01-26T03:06:56.788Z</ExactDateTime>
+            </DateTime>
+            <Description>
+              <Text>Weight</Text>
+            </Description>
+            <Source>
+              <Actor>
+                <ActorID>rtgonzalez@gmail.com</ActorID>
+                <ActorRole>
+                  <Text>Patient</Text>
+                </ActorRole>
+              </Actor>
+              <Actor>
+                <ActorID>rtgonzalez@gmail.com</ActorID>
+                <ActorRole>
+                  <Text>Patient</Text>
+                </ActorRole>
+              </Actor>
+            </Source>
+            <Test>
+              <CCRDataObjectID>tumFewOry18-0</CCRDataObjectID>
+              <DateTime>
+                <Type>
+                  <Text>Collection start date</Text>
+                </Type>
+                <ExactDateTime>2011-01-26T03:06:56.788Z</ExactDateTime>
+              </DateTime>
+              <Description>
+                <Text>Weight</Text>
+              </Description>
+              <Source>
+                <Actor>
+                  <ActorID>rtgonzalez@gmail.com</ActorID>
+                  <ActorRole>
+                    <Text>Patient</Text>
+                  </ActorRole>
+                </Actor>
+              </Source>
+              <TestResult>
+                <Value>182.98</Value>
+                <Units>
+                  <Unit>lb</Unit>
+                </Units>
+              </TestResult>
+            </Test>
+          </Result>
+        </Results>
+      </Body>
+      <Actors>
+        <Actor>
+          <ActorObjectID>Google Health Profile</ActorObjectID>
+          <Source>
+            <Actor>
+              <ActorID>rtgonzalez@gmail.com</ActorID>
+              <ActorRole>
+                <Text>Patient</Text>
+              </ActorRole>
+            </Actor>
+            <Actor>
+              <ActorID>rtgonzalez@gmail.com</ActorID>
+              <ActorRole>
+                <Text>Patient</Text>
+              </ActorRole>
+            </Actor>
+          </Source>
+        </Actor>
+      </Actors>
+    </ContinuityOfCareRecord>
+    <ProfileMetaData xmlns='http://schemas.google.com/health/metadata'/>
+  </entry>
+</feed>
